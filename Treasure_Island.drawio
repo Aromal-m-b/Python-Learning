@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T06:32:54.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Cop4MTJ6QntiPM1xWxfR" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T06:35:45.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Kt4xx9K6x8CfIUOAqPP5" version="24.7.2" type="github">
   <diagram name="Page-1" id="Z6DZAkdMI9cU-y9qgavO">
     <mxGraphModel dx="1050" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="T2wJ-aRmv_vQGMFXSuEE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-2" target="T2wJ-aRmv_vQGMFXSuEE-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-2" value="Welcome to Treasure Island,&lt;div&gt;There are two paths &quot;left&quot; or &quot;right&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-2" value="print Welcome to Treasure Island,&lt;div&gt;There are two paths &quot;left&quot; or &quot;right&quot;&lt;/div&gt;&lt;div&gt;choice = input&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T2wJ-aRmv_vQGMFXSuEE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-4" target="T2wJ-aRmv_vQGMFXSuEE-6">
           <mxGeometry relative="1" as="geometry" />
