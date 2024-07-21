@@ -1,9 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T06:12:30.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.2" etag="WHffTKPCS6So840spNns" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T06:28:22.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="z6-sKFjGhrl2YAS8bHrM" version="24.7.2" type="github">
   <diagram name="Page-1" id="Z6DZAkdMI9cU-y9qgavO">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-1" target="T2wJ-aRmv_vQGMFXSuEE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-1" value="START" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-2" target="T2wJ-aRmv_vQGMFXSuEE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-2" value="Welcome to Treasure Island,&lt;div&gt;There are two paths &quot;left&quot; or &quot;right&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-4" target="T2wJ-aRmv_vQGMFXSuEE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-10" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2wJ-aRmv_vQGMFXSuEE-7">
+          <mxGeometry x="-0.3067" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-4" target="T2wJ-aRmv_vQGMFXSuEE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-11" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2wJ-aRmv_vQGMFXSuEE-9">
+          <mxGeometry x="-0.16" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-4" value="if choice is &quot;left&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-6" value="print Game over" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-8" target="T2wJ-aRmv_vQGMFXSuEE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-8" value="print You arrived at a river bank now you have two choices &quot;swim&quot; or &quot;wait&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-14" target="T2wJ-aRmv_vQGMFXSuEE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-18" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2wJ-aRmv_vQGMFXSuEE-17">
+          <mxGeometry x="-0.34" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-14" target="T2wJ-aRmv_vQGMFXSuEE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-14" value="if choice is wait" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-16" value="print Game over" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-19" target="T2wJ-aRmv_vQGMFXSuEE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-19" value="print There are three doors in front of you Red,Blue,Yellow choose one of these" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-24" target="T2wJ-aRmv_vQGMFXSuEE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-28" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2wJ-aRmv_vQGMFXSuEE-27">
+          <mxGeometry x="-0.38" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-24" target="T2wJ-aRmv_vQGMFXSuEE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-34" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2wJ-aRmv_vQGMFXSuEE-30">
+          <mxGeometry x="-0.185" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-24" value="if choice is red&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-26" value="print You are Burned by Flames&lt;div&gt;Game Over&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-29" target="T2wJ-aRmv_vQGMFXSuEE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-33" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2wJ-aRmv_vQGMFXSuEE-32">
+          <mxGeometry x="-0.18" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-29" target="T2wJ-aRmv_vQGMFXSuEE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-29" value="if choice is blue" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-31" value="print You are eaten by monsters&lt;div&gt;Game Over&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-37" target="T2wJ-aRmv_vQGMFXSuEE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-41" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2wJ-aRmv_vQGMFXSuEE-40">
+          <mxGeometry x="-0.28" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-37" target="T2wJ-aRmv_vQGMFXSuEE-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-44" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T2wJ-aRmv_vQGMFXSuEE-43">
+          <mxGeometry x="-0.3867" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-37" value="if choice is Yellow" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-39" value="print Congratulations You have find the treasure" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-42" value="Game Over" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
