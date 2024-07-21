@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T06:28:22.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="z6-sKFjGhrl2YAS8bHrM" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T06:32:54.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Cop4MTJ6QntiPM1xWxfR" version="24.7.2" type="github">
   <diagram name="Page-1" id="Z6DZAkdMI9cU-y9qgavO">
     <mxGraphModel dx="1050" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,8 +128,45 @@
         <mxCell id="T2wJ-aRmv_vQGMFXSuEE-39" value="print Congratulations You have find the treasure" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-42" target="T2wJ-aRmv_vQGMFXSuEE-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T2wJ-aRmv_vQGMFXSuEE-42" value="Game Over" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-45" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="T2wJ-aRmv_vQGMFXSuEE-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="1080" as="sourcePoint" />
+            <mxPoint x="680" y="1550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="1080" />
+              <mxPoint x="680" y="1540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="320" as="sourcePoint" />
+            <mxPoint x="680" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T2wJ-aRmv_vQGMFXSuEE-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="670" as="sourcePoint" />
+            <mxPoint x="680" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2wJ-aRmv_vQGMFXSuEE-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="919.5" as="sourcePoint" />
+            <mxPoint x="680" y="919.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
