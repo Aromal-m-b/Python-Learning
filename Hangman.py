@@ -19,7 +19,14 @@ Logo  = """
 
 #initializations 
 
-key = "Immortal"
+def randomword():
+    file = open("word.txt")
+    f = file.readlines()
+    i =random.randrange(0,len(f)-1)
+    return f[i][-1]
+
+key = randomword()
+key = key.lower()
 size = len(key)
 size = size-1
 mark = list()
@@ -74,6 +81,7 @@ def graphic(desired):
     print(Image[desired])
 
 
+
 def check_word(user,icon,life):
     count = 0
     for k in range(0,size):
@@ -125,6 +133,7 @@ icon = 0
 while(end):
     print("Enter a letter :")
     user =  input()
+    user = user.lower()
     print("\n")
     end,icon,life = check_word(user,icon,life)
     
